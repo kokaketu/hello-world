@@ -1,2 +1,2 @@
 # hello-world
-Study notes
+hello everyone!
